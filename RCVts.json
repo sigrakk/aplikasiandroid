@@ -1,5 +1,6 @@
 {
-    "MODE":"admob",
+    "MODE":"on",
+    "Provider":"admob",
     "AdMob_app_id_Anda":"ca-app-pub-3940256099942544~3347511713",
     "Admob_ad_unit_id_banner":"ca-app-pub-3940256099942544/6300978111"
 }
