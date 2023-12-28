@@ -58,7 +58,7 @@
     "Admob_ad_unit_id_banner":"ca-app-pub-3940256099942544/6300978111",
     "Admob_ad_unit_id_intersial":"ca-app-pub-3940256099942544/1033173712",
     "Unity_app_id_Anda":"1234567",
-    "Unity_ad_unit_id_banner":"Banner_Android",
+    "Unity_ad_unit_id_banner":"bottomBanner",
     "Unity_ad_unit_id_intersial":"Interstisial_Android",
     "Applovin_app_id_Anda":"",
     "Applovin_ad_unit_id_banner":"",
