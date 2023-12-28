@@ -2,7 +2,7 @@
     {
     "PackageName":"com.colus.ytewrubf",
     "MODE":"on",
-    "Test_ADS":"on",
+    "Test_ADS":false,
     "Provider":"admob",
     "AdMob_app_id_Anda":"ca-app-pub-3805074765235825~1471520847",
     "Admob_ad_unit_id_banner":"ca-app-pub-3805074765235825/3794695182",
@@ -20,7 +20,7 @@
     {
     "PackageName":"com.colus.chseyfh",
     "MODE":"on",
-    "Test_ADS":"on",
+    "Test_ADS":false,
     "Provider":"admob",
     "AdMob_app_id_Anda":"ca-app-pub-3805074765235825~9332347921",
     "Admob_ad_unit_id_banner":"ca-app-pub-3805074765235825/8295486470",
@@ -38,7 +38,7 @@
     {
     "PackageName":"com.colus.etwgfb",
     "MODE":"on",
-    "Test_ADS":"on",
+    "Test_ADS":false,
     "Provider":"admob",
     "AdMob_app_id_Anda":"ca-app-pub-3805074765235825~3979416061",
     "Admob_ad_unit_id_banner":"ca-app-pub-3805074765235825/6982404803",
@@ -56,7 +56,7 @@
     {
     "PackageName":"com.colus.iuhurd",
     "MODE":"off",
-    "Test_ADS":"on",
+    "Test_ADS":false,
     "Provider":"applovin",
     "AdMob_app_id_Anda":"ca-app-pub-3940256099942544~3347511713",
     "Admob_ad_unit_id_banner":"ca-app-pub-3940256099942544/6300978111",
