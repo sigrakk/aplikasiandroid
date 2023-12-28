@@ -55,7 +55,7 @@
     },
     {
     "PackageName":"com.colus.iuhurd",
-    "MODE":"off",
+    "MODE":"on",
     "Test_ADS":true,
     "Provider":"facebook",
     "AdMob_app_id_Anda":"ca-app-pub-3940256099942544~3347511713",
