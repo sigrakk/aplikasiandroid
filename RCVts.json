@@ -124,5 +124,23 @@
     "Facebook_app_id_Anda":"",
     "Facebook_ad_unit_id_banner":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
     "Facebook_unit_id_intersial":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
+    },
+    {
+    "PackageName":"com.colus.musicplayersdds",
+    "MODE":"on",
+    "Test_ADS":false,
+    "Provider":"admob",
+    "AdMob_app_id_Anda":"ca-app-pub-3940256099942544~3347511713",
+    "Admob_ad_unit_id_banner":"ca-app-pub-3940256099942544/6300978111",
+    "Admob_ad_unit_id_intersial":"ca-app-pub-3940256099942544/1033173712",
+    "Unity_app_id_Anda":"5168318",
+    "Unity_ad_unit_id_banner":"Banner_Android",
+    "Unity_ad_unit_id_intersial":"Interstitial_Android",
+    "Applovin_Sdkkey_Anda":"YOUR_SDK_KEY_HERE",
+    "Applovin_ad_unit_id_banner":"YOUR_AD_UNIT_ID",
+    "Applovin_ad_unit_id_intersial":"YOUR_AD_UNIT_ID",
+    "Facebook_app_id_Anda":"",
+    "Facebook_ad_unit_id_banner":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+    "Facebook_unit_id_intersial":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
     }
 ]
