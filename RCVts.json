@@ -162,9 +162,9 @@
     "Facebook_unit_id_intersial":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
     },
     {
-        "PackageName":"com.colus.appberikutnya",
+        "PackageName":"com.colus.wyefbusd",
         "MODE":"on",
-        "Test_ADS":true,
+        "Test_ADS":false,
         "Provider":"facebook",
         "AdMob_app_id_Anda":"ca-app-pub-3805074765235825~5367764753",
         "Admob_ad_unit_id_banner":"ca-app-pub-3805074765235825/5367710851",
@@ -176,7 +176,7 @@
         "Applovin_ad_unit_id_banner":"YOUR_AD_UNIT_ID",
         "Applovin_ad_unit_id_intersial":"YOUR_AD_UNIT_ID",
         "Facebook_app_id_Anda":"",
-        "Facebook_ad_unit_id_banner":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+        "Facebook_ad_unit_id_banner":"221815750982570_221848874312591",
         "Facebook_unit_id_intersial":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
     }
 ]
