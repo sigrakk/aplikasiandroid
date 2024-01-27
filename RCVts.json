@@ -181,7 +181,7 @@
     },
     {
     "PackageName":"com.colus.ytwrubfw",
-    "MODE":"on",
+    "MODE":"off",
     "Test_ADS":false,
     "Provider":"admob",
     "AdMob_app_id_Anda":"ca-app-pub-3805074765235825~5367764753",
