@@ -221,7 +221,7 @@
     "Test_ADS":true,
     "Provider":"admob",
     "AdMob_app_id_Anda":"ca-app-pub-3940256099942544~3347511713",
-    "Admob_ad_unit_id_banner":"ca-app-pub-3805074765235825/5367710851",
+    "Admob_ad_unit_id_banner":"ca-app-pub-3940256099942544/6300978111",
     "Admob_ad_unit_id_intersial":"ca-app-pub-3940256099942544/1033173712",
     "Unity_app_id_Anda":"5168318",
     "Unity_ad_unit_id_banner":"Banner_Android",
