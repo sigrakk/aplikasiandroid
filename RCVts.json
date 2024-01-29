@@ -217,7 +217,7 @@
     },
     {
     "PackageName":"com.colus.ebookeytgdf",
-    "MODE":"ob",
+    "MODE":"on",
     "Test_ADS":true,
     "Provider":"facebook",
     "AdMob_app_id_Anda":"ca-app-pub-3805074765235825~5367764753",
